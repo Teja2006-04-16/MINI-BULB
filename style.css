@@ -1,0 +1,37 @@
+body{
+ 
+    text-align: center;
+
+}
+
+#bulb{
+
+    width: 200px;
+
+    height: 400px;
+
+}
+
+button{
+
+    height: 40px;
+
+    width: 50px;
+
+    background-color: rgb(117, 117, 138);
+
+    color: antiquewhite;
+
+
+
+}
+
+button:hover{
+
+    cursor: pointer;
+
+    background-color: black;
+
+    color: wheat;
+
+}
